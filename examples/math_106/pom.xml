@@ -140,7 +140,7 @@
       <name>Kim van der Linde</name>
     </contributor>
     <contributor>
-      <name>J&#246;rg Weimar</name>
+      <name>Jörg Weimar</name>
     </contributor>
     <contributor>
       <name>Xiaogang Zhang</name>
@@ -171,7 +171,7 @@
      <dependency>
       <groupId>commons-discovery</groupId>
       <artifactId>commons-discovery</artifactId>
-      <version>0.2</version>
+      <version>0.5</version>
       <!--
       <properties>
        <comment>
@@ -187,7 +187,7 @@
   <properties>
     <commons.componentid>math</commons.componentid>
     <commons.release.version>1.2</commons.release.version>
-    <commons.binary.suffix></commons.binary.suffix>
+    <commons.binary.suffix/>
     <commons.jira.id>MATH</commons.jira.id>
     <commons.jira.pid>12310485</commons.jira.pid>
   </properties> 
